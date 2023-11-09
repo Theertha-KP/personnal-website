@@ -386,7 +386,8 @@ img {
 }
 
 /*===================== About ==================*/
-.about__img {
+
+.img-rounded{ 
   width: 170px;
   border-radius: 500%;
   justify-self: center;
